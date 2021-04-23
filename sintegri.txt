@@ -1,0 +1,43 @@
+Sistema criado para controlaria geral do estado do Rio de Janeiro afim de garantir
+a integridade publica nos orgao estaduais 
+
+EQUIPE DE DESENVOLVIMENTO 
+Gerente de projeto: Claudio Andrade
+
+Desenvolvedor: George s. Bezerra
+
+Co desenvolvedores 
+Thiago Braga Nobre
+Pedro Vieira Caetano de Macedo
+
+Testes 
+Valmir Mendes Virtuoso Filho
+
+VERSAO DO PHP 
+PHP Version 7.2.34 
+
+STACK
+FRONT -END 
+Bootstrap ,html ,CSS , JavaScript , jQuery 
+
+BACK-END 
+Php , Ajax, jQuery, JavaScript
+
+VERSAO DO COMPOSER 
+versão 2.0.8
+
+ VERSAO DO BANCO DE DADOS
+Mysql/maria db
+
+COMPONENTES
+ext-pdo
+phpmailer
+league/plates
+matthiasmullie/minify
+coffeecode/uploader
+coffeecode/cropper
+coffeecode/optimizer
+coffeecode/paginator
+coffeecode/router
+coffeecode/datalayer
+ext-json
