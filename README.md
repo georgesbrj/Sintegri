@@ -7,3 +7,7 @@ sistema de integridade pública
 ![dashboard](https://github.com/georgesbrj/Sintegri/blob/master/home.png)
 
 ![componente](https://github.com/georgesbrj/Sintegri/blob/master/componente.png)
+
+![novaApp](https://github.com/georgesbrj/Sintegri/blob/master/novaApp.png)
+
+![novaHome](https://github.com/georgesbrj/Sintegri/blob/master/novaHome.png)
